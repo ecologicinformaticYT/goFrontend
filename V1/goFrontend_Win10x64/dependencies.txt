@@ -1,0 +1,1 @@
+You need to install Golang (>=1.22.5) to run that software.
