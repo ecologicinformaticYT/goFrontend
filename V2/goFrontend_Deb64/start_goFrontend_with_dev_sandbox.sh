@@ -1,0 +1,2 @@
+start start_dev_sandbox.bat
+start_goFrontend.bat

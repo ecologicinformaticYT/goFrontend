@@ -1,0 +1,2 @@
+OS : Windows >=10 (64-bits) or Debian / Debian based-on distribution (64-bits) 
+with golang >= 1.22.5 installed
